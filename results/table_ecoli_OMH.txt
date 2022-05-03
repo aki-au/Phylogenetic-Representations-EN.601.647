@@ -1,0 +1,5 @@
+#Dashing2 Asymmetric pairwise Output
+#Dashing2Options: Dashing2Options;k:25;parsebyseq;trimchr;sketchsize:1024;sketchtype:orderminhash;Fastx;canon
+#Sources	GCF_004804185_first_contig	GCF_904863105_first_contig
+GCF_004804185_first_contig	0	2582804
+GCF_904863105_first_contig	2582804	0
