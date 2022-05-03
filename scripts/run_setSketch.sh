@@ -1,0 +1,1 @@
+/usr/bin/time --format='user= %U system= %S elapsed= %e CPU= %P MemMax= %M' ../dashing2/dashing2 sketch -k15 --parse-by-seq --square $1 --cmpout $2
